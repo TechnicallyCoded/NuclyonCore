@@ -1,4 +1,4 @@
 # NuclyonCore
 The main plugin for the Nuclyon Server
 
-You can check out what is coming in the next version of the plugin by looking at changelog.txt
+Check out what is coming in the next versions of the plugin by looking at [changelog.txt](https://github.com/TechnicallyCoded/NuclyonCore/blob/master/changelog.txt)
