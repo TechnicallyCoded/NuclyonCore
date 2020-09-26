@@ -1,0 +1,37 @@
+Upcoming in later versions:
+  - Automatically update name, prefix, profile picture & more when joining the server or using discord chat
+  - Show deaths in discord
+  - Show advancements in discord
+  - Global network bans
+  - Ability to change to spectator mode and be teleported back where you were when going back into survival
+  - [item] in chat shows your item's name and enchantments in chat and as an embed on discord
+  - Custom chat filters
+  - Show online players in discord
+  - Sync staff chat like member chat
+  - Ability to transfer accounts over to other UUIDs
+
+Upcoming Version 0.3.0:
+  - Added toggleable sidebar
+  - Added msg spy
+  - Added ability for staff with permission to tab-complete vanished players
+  - // TODO: Added ability to reload configuration file to update linked players
+  - Fixed in-game chat messages suggesting /msg <user> instead of clickable links
+  - Fixed cross-chat not working if profile picture not set on discord
+  - // TODO:Fixed chat not being logged correctly in bungeecord logs
+
+Released Version 0.2.0:
+  - Better discord integration for chat.
+  - Join and leave messages are no longer bugged out on discord's side.
+  - You can now click a player's name to open a /msg <name> command automatically.
+  - You can click any name from a discord message (while in-game) to create a new message mentioning them.
+  - In-game chat messages sent from discord now include your rank
+  - You can now see who is online by hovering your mouse over the player count while looking at the multiplayer server list
+  - You can now see when a player moves from the hub to smp and back (in chat)
+  - When adding a mention in discord, you will soon see it as a nicely formatted mention in-game (kinda broken rn, working on it)
+  - Staff now have full vanish support (tab-completion is blocked, they don't show as a player from the server list, they no longer have broken join and leave messages, staff can now move from one server to another without needing to un-vanish every time, messages sent to staff while vanished appear as though they are offline but they will still get your message, staff see vanished joins, leaves and moving between servers)
+  - Didn't add social spy yet... don't abuse this xD
+  - Oh, and I re-wrote the entire core chat system.. but that's ez... cough..
+  - ... more stuff is to come ... just wait :)
+
+Beta Version 0.1.0:
+  - The base member chat is linked and can send/receive messages on both ends
